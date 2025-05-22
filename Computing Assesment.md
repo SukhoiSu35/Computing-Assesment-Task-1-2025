@@ -166,6 +166,13 @@ Clear terms of use should be established for users engaging with interactive con
 | **Google UI** | Google is simple and fast to use.  The search results are helpful and well shown.  Google apps work well together.  The design is clean and not distracting. | Some features are hidden and hard to find.  Some apps like Google Drive can feel crowded.  Personalized results might not always show different views. | Google’s design shows that simple and fast is good.  In our project, we should keep things easy to use.  We also need to make sure all features are easy to find. |
 | **Instagram UI** | Instagram looks good and is fun to use.  It’s easy to move around the app.  Features like Stories and Reels are easy to find.  Dark mode is also helpful for night use. | The feed shows random posts, not just from people you follow.  Ads can be annoying.  The explore page shows too much at once. | Instagram is a good example of a fun and visual design. For our project, we should keep it fun but not too busy.  Giving users control over what they see will help. |
 
+# WIREFRAMES
+
+![alt text](https://media.discordapp.net/attachments/1338167173889261621/1375089356754391140/image.png?ex=68306b42&is=682f19c2&hm=e8f967e11945a52a7bf13e85070b6fbd066aceffc35949fc8e1ce60114acc552&=&format=webp&quality=lossless&width=1568&height=1436)
+
+![alt text](https://media.discordapp.net/attachments/1338167173889261621/1375090025309405315/image.png?ex=68306be1&is=682f1a61&hm=91b948d52df5fca18f21c6a1b1c49ea8ed15acef4f9a15a0db26d69b39870a3b&=&format=webp&quality=lossless&width=1038&height=1494)
+
+![alt text](https://cdn.discordapp.com/attachments/1338167173889261621/1375090942075338762/image.png?ex=68306cbc&is=682f1b3c&hm=eb09f98985ad4ea8931e55eaac2487486ca203d700a1cd79436fe79ecbaf1b8d)
 # EVALUATION
 
 **Usability**
