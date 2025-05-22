@@ -157,7 +157,7 @@ Clear terms of use should be established for users engaging with interactive con
 
 **GANTT CHART**
 
-![alt text](image-4.png)
+![alt text](https://media.discordapp.net/attachments/1338167173889261621/1375084776238616708/image.png?ex=683066fe&is=682f157e&hm=5e289f7f3a55c1fcd70778da19c8eda068e1a0ab65ee60986034efa37ecfff18&=&format=webp&quality=lossless&width=1986&height=1286)
 
 # PMI CHART          
 | **UI Name**   | **Plus** | **Minus** | **Implication** |
@@ -170,16 +170,21 @@ Clear terms of use should be established for users engaging with interactive con
 
 **Usability**
 
-With the feedback I recieved, I came up with a few common things that I should have implemented, first was to add more items to the web, to make better use of space. Additionally I overall recieved 7 out of 10 for the aesthetics, and I realised that I should have incorporated more aesthetically pleasing features to make it a better wireframe. 
+With the feedback I recieved, I came up with a few common things that I should have implemented, first was to add more items to the web, to make better use of space.  
 
-**Evaulution**
+**Aesthetics**
 
+Additionally I overall recieved 7 out of 10 for the aesthetics, and I realised that I should have incorporated more aesthetically pleasing features to make it a better wireframe.
+
+**Functionality**
+
+Overall it meets the projects purpose and aims to engage people within tennis 
 
 # PROTOTYPE 1 
 
 My first prototype was the first page of the website, it consisted of an image of roger federer as the background and a large text of roger federer on the front. In the top left corner it was the site name and in the top right corner was the Interactable buttons to go on another page like as shown 
 
-![alt text](image.png)
+![alt text](https://media.discordapp.net/attachments/1338167173889261621/1375085105814437948/image.png?ex=6830674d&is=682f15cd&hm=b1ef893d99da51191a47150a95311a0b33c7ce5dada1ccc48a1f9aff623c153b&=&format=webp&quality=lossless&width=1100&height=584)
 
 
 **Testing**
@@ -193,8 +198,8 @@ In this first part, I dont think I made that great use of space and it wasnt as 
 # PROTOTYPE 2 
 
 I made a prototype of a website about Roger Federer. It includes a homepage, an awards page, and a quiz. The awards page shows a motivational quote and lists his Grand Slam wins. I also added images of Federer with trophies to make it more engaging.
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](https://media.discordapp.net/attachments/1338167173889261621/1375085286836666491/image.png?ex=68306778&is=682f15f8&hm=7aa03975bec7ad5fe8eb6f78b158244ffda4480b1dffdaf5194f5b91a40f54e1&=&format=webp&quality=lossless&width=1100&height=584)
+![alt text](https://media.discordapp.net/attachments/1338167173889261621/1375085432299196476/image.png?ex=6830679a&is=682f161a&hm=b83532971caaa2eee31d6201cfc6a2e2b2cb99a4f09e4a78f71a2c10f45aeb89&=&format=webp&quality=lossless&width=2420&height=1286)
 
 
 
@@ -212,7 +217,11 @@ Users liked the design and how simple it was to use. Some suggested adding more 
 
 I made an interactive quiz where users can test their knowledge about roger federer, replicating all the information on the previous pages. This quiz consists of 10 questions and the results come instantly after the quiz is finished
 
-![alt text](image-3.png)
+![alt text](https://media.discordapp.net/attachments/1338167173889261621/1375085569042026637/image.png?ex=683067bb&is=682f163b&hm=ddbf097f7bfcb268b2fd8c17ac6fd03fa6e61275cdff6e2a9f759ad4c20cb28e&=&format=webp&quality=lossless&width=2420&height=1286)
+
+![alt text](https://media.discordapp.net/attachments/1338167173889261621/1375085601027522610/image.png?ex=683067c3&is=682f1643&hm=70e18d68172bbdd81ec455e577ef055e9f7c36cfc47ee798a3a34f5722f38ea4&=&format=webp&quality=lossless&width=2420&height=1286)
+
+![alt text](https://media.discordapp.net/attachments/1338167173889261621/1375085752198627400/image.png?ex=683067e7&is=682f1667&hm=fbb227e0ddc828aab8ebaa3f71254ea935c938e62f9d4aa5c16db4399393495e&=&format=webp&quality=lossless&width=2420&height=1286)
 
 
 
@@ -223,6 +232,7 @@ I made this prototype very similar to the wireframe that i fixed based on feedba
 **Evaluate**
 
 Users liked the design and how simple it was to use. Some suggested adding more interactive features. Based on this, I’ll improve the design by making it more responsive and adding more engaging elements like a working quiz.
+
 
 # FINAL EVALUATION 
 
